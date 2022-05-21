@@ -1,0 +1,115 @@
+body {
+    background-color: darkgoldenrod;
+    font-family: Arial;
+}
+
+header {
+    width: 80%;
+    text-align: left;
+    margin-left: 10%;
+    display: flex;
+    background-color: yellow;
+}
+
+#logo {
+    width: 140px;
+    height: 120px;
+    margin-left: 60%;
+}
+
+#contenido {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: mediumorchid;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    list-style: none;
+    margin-bottom: 0.2em;
+}
+
+nav a {
+    background: #126872;
+    padding: 0.5em;
+    text-align: center;
+    margin-right: 5px;
+    width: 80%;
+    border-radius: 10px;
+
+}
+
+nav li {
+    color: white;
+    text-decoration-style: none;
+}
+
+#subcontenido {
+    width: 80%;
+    display: flex;
+    background-color: blue;
+}
+
+
+#Otros-cursos {
+    width: 80%;
+    display: flex;
+    background-color:orangered;
+}
+article {
+
+    padding: 3px;
+    margin-right: 3px;
+}
+
+aside {
+    background-color: green;
+    width: 40%;
+    padding: 3px;
+}
+
+aside h4 {
+    background: #126872;
+    color: white;
+    padding: 2px;
+}
+
+#peliculas img {
+    width: 130px;
+    height: 180px;
+    margin-right: 50px;
+    padding-top: 10px;
+}
+
+.destacadas {
+    width: 100px;
+    height: 130px;
+}
+
+.redes {
+    width: 50px;
+    height: 50px;
+}
+
+.contenedor {
+    margin-left: 35px;
+    display: inline-block;
+}
+
+table p {
+    margin: 3px;
+}
+
+footer {
+    background-color: tomato;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+footer p {
+    text-align: center;
+    margin: 3px;
+}
