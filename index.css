@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+}
+
+:root{
+    --facebook: #3b5998;
+    --instagram: #c82f86;
+    --twitter: #00acee;
+    --youtube: #fe0000;
+}
+
+html{
+    scroll-behavior: smooth;
+
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+#menutop{
+    display: flex;
+    position: fixed;
+    width: 100%;
+    justify-content: center;
+    padding: 10px;
+    background-color: black;
+}
+
+#menutop a{
+    padding: 5px 12px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+
+    
+}
+
+header{
+
+}
+
+
+
+
+
+
+
